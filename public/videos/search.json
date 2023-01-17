@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "eWq_kq8YzOerSq4HpecmsmJPEDI",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SqeDXa1SXJ20popRYEFDuKdJe68",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pmNWyHKoWbQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-07T14:00:22Z",
+                "channelId": "UCINb0wqPz-A0dV9nARjJlOQ",
+                "title": "Tiny Puppy Is A Master Thief | The Dodo",
+                "description": "Tiny puppy steals socks, shoes and basically everything else — guess who he learned it from To keep up with Lloyd, follow ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pmNWyHKoWbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pmNWyHKoWbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pmNWyHKoWbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Dodo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-07T14:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S3VVju3cA5zvFDhB57pwW1iH3pw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_pHJWXKdv2c"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-07T18:00:10Z",
+                "channelId": "UCINb0wqPz-A0dV9nARjJlOQ",
+                "title": "Golden Retriever Gets Surprised With A Tiny Puppy | The Dodo",
+                "description": "Golden retriever gets surprised with her mini me and spends a year teaching her all important doggy lessons Special thanks to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_pHJWXKdv2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_pHJWXKdv2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_pHJWXKdv2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Dodo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-07T18:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2N0zyWmIBjL9Yayyf31uImQnKD8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C3otizMpzho"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-07T12:00:10Z",
+                "channelId": "UCerazDNo8vEcVTbBajMAoFQ",
+                "title": "😍 These Cutest Golden Puppies Will Make You Fall In Love At First Sight🐶| Cute Puppies",
+                "description": "Watch more cute Puppies compilations! https://youtube.com/playlist?list=PLDQIMVfdTGXxPPkxdmVjdkVPAtWr1Mw4D ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C3otizMpzho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C3otizMpzho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C3otizMpzho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cutest Puppies City",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-07T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tev5RwHYF8aU91meUUl3AwEThrQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y3ALh89hQ1E"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-07T14:31:51Z",
+                "channelId": "UCcPN-gN7or3cI3UX_QbnKBg",
+                "title": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Egg",
+                "description": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Egg.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y3ALh89hQ1E/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y3ALh89hQ1E/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y3ALh89hQ1E/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "COCO Car",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-01-07T14:31:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uNhjwH0kxg3DNMzuhATsfUSvP7A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SnqnnYCLCUo"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T16:00:11Z",
+                "channelId": "UCkEBDbzLyH-LbB2FgMoSMaQ",
+                "title": "Samoyed Puppies Learn New Skills from their Parents | Too Cute! | Animal Planet",
+                "description": "Samoyed puppies learn to play outdoors with their father while keeping clean indoors. #puppies #animalplanet Stream Full ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SnqnnYCLCUo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SnqnnYCLCUo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SnqnnYCLCUo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Animal Planet",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-06T16:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sEWj3gAALeKOb8Ubr_-mQSb-WK0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eLSPoBajFrs"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T18:00:28Z",
+                "channelId": "UCINb0wqPz-A0dV9nARjJlOQ",
+                "title": "Couple Tries Rescuing Two Puppies for Six Hours At The Beach | The Dodo Running Back To The Rescue",
+                "description": "Running Back To The Rescue Episode 5 Couple runs around the beach all day trying to rescue two feral puppies ❤️ Keep up ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eLSPoBajFrs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eLSPoBajFrs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eLSPoBajFrs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Dodo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-06T18:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XgMl7N13-pywDzbn2IoZzjEihoE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6arYXwuo27w"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-05T14:00:04Z",
+                "channelId": "UCiZOCc6yiQM_ze-SCfyCG_Q",
+                "title": "Golden Retriever Dad Meets His Puppies for the First Time",
+                "description": "Golden Retriever Dad Meets His 11 Puppies for the First Time My dog is a proud dad of 11 puppies and today he gets to meet all ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6arYXwuo27w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6arYXwuo27w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6arYXwuo27w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Leo Fucarev",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-05T14:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RJJQ4_okFuQHjUpF4My1KCoV3D4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ThbfIqEVetQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T06:00:47Z",
+                "channelId": "UChTr23DcheAA4pW9qpJmPiA",
+                "title": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Eggs",
+                "description": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Eggs ---------------------------- Warning: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ThbfIqEVetQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ThbfIqEVetQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ThbfIqEVetQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Animal Stop Motion Cooking",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-01-06T06:00:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sGsXInGkX2mo3YUQ3EDSJmZgUxA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i0UvF6RC4U8"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-05T14:00:30Z",
+                "channelId": "UCWTgK00SCKKNgpbsAgqzUxw",
+                "title": "Golden Retriever Puppy and Tiny Kittens [Cuteness Overload]",
+                "description": "Golden Retriever Puppy and Tiny Kittens [Cuteness Overload]! We hope you enjoyed this video. Be sure to hit that subscribe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i0UvF6RC4U8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i0UvF6RC4U8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i0UvF6RC4U8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "This is Bailey",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-05T14:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Xx6draGEZ7uE1zYMdIQaMz3NmJE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v1xjo49iBiI"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T21:00:21Z",
+                "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+                "title": "What does it take to raise a guide dog puppy? - BBC News",
+                "description": "The pandemic caused a decline in guide dog partnerships, after puppy breeding and training were paused. Lisa's household is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v1xjo49iBiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v1xjo49iBiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v1xjo49iBiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BBC News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T21:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZYXJ5Xg3i7gWldFmFB8dM8JpLw4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2ySo4IekGf4"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T22:11:49Z",
+                "channelId": "UCOiAmpV39nz27OxHFYkX_7g",
+                "title": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Egg #new30",
+                "description": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Egg #new30.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ySo4IekGf4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ySo4IekGf4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ySo4IekGf4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Самирумба",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-01-06T22:11:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Se75UXLVH0D-A_NOeOaTBE4LWwI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lmp39a-b2WU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-05T23:15:01Z",
+                "channelId": "UCE4hoGDQruxi8_hUqB6tLVw",
+                "title": "I Decided Which Golden Retriever Puppy I&#39;m Keeping...",
+                "description": "I decided which golden retriever puppy I'm keeping... Leave name suggestions!!! SHOP THE CRYSTAL WOLF SALE!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lmp39a-b2WU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lmp39a-b2WU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lmp39a-b2WU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Joey Graceffa Vlogs",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-05T23:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q82GvyLK2E0GCpHve84-Mp90d2E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HsB95zRyqus"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-07T12:26:51Z",
+                "channelId": "UCOiAmpV39nz27OxHFYkX_7g",
+                "title": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Egg #new15",
+                "description": "Bin Bon duck Monkey Baby Kittens Puppy Goes Koi Cat And swims Rabbits Animals Eats Egg #new15.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HsB95zRyqus/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HsB95zRyqus/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HsB95zRyqus/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Самирумба",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-01-07T12:26:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SccfSUiKooFIdQNW2MkvKpgHuPM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Us16VPecFJU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T00:00:09Z",
+                "channelId": "UCVo6gkfRE7y1sigGJ82bTCA",
+                "title": "Real Vs Fake 24 Hours Challenge: Find The Real Zombie | Max&#39;s Puppy Dog Cartoons | Zombies Cartoons",
+                "description": "\"When zombie apocalypse occurs, Max will have to build his own army... #maxspuppydog #cartoon #animation #max ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Us16VPecFJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Us16VPecFJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Us16VPecFJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Max's Puppy Dog",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-06T00:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qXT_PDX6yPYD8gUPt6g8gx1LX8I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FOv5BCVKq0Q"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-12T08:37:10Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "Pappi Jhappi | Govinda Naam Mera | Vicky, Kiara | Meet Bros., Harry Arora, Kumaar",
+                "description": "Presenting the cutest song of 2022, here's giving you some Pappi Jhappi on behalf of Vicky and Kiara! Composed by Meet Bros, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FOv5BCVKq0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FOv5BCVKq0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FOv5BCVKq0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sony Music India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-12T08:37:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ta5LdKq7i2ws2g3zH53K_5NyP4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yxOMK-8canw"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-27T02:16:56Z",
+                "channelId": "UCc4usGoC9aJL00Zy9_L10eA",
+                "title": "Funny and Cute Pomeranian Videos #4 | Cutest Puppies",
+                "description": "Funny and Cute Pomeranian Videos #4 | Cutest Puppies Hope you like a new cute and funny pomeranian puppies compilation.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yxOMK-8canw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yxOMK-8canw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yxOMK-8canw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Funny TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-27T02:16:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eokoC2juZmcqjpPbdAUpGKenrUE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B1CPE6WWsAQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-28T11:00:05Z",
+                "channelId": "UCerazDNo8vEcVTbBajMAoFQ",
+                "title": "Cute baby animals Videos Compilation cutest moment of the animals - Cutest Puppies #2",
+                "description": "Watch more cute Puppies compilations! https://youtube.com/playlist?list=PLDQIMVfdTGXxPPkxdmVjdkVPAtWr1Mw4D ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B1CPE6WWsAQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B1CPE6WWsAQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B1CPE6WWsAQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cutest Puppies City",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-28T11:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VHI8bD39yuT_NoJDhT3Wv3i5B4M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HrGtd1XazUQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-05T14:46:28Z",
+                "channelId": "UCbHvtJxBXUzpB_iXfJLIvjA",
+                "title": "Funniest &amp; Cutest Golden Retriever Puppies - 30 Minutes of Funny Puppy Videos 2022 #14",
+                "description": "Can we hit 2000 LIKES on this video? Please share it and SUBSCRIBE! LIFE IS BETTER WITH A GOLDEN RETRIEVER ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HrGtd1XazUQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HrGtd1XazUQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HrGtd1XazUQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GrumpyDog",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-05T14:46:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xazzVlba9-IAd4vPlnn1Q-EIdlM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jfez3Eq762I"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-15T13:30:21Z",
+                "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+                "title": "How To Draw A Jack Russell Terrier Puppy",
+                "description": "Follow along with us and learn how to draw a cute Jack Russell Terrier puppy! Art Supplies ~ This is a list of the supplies we used, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jfez3Eq762I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jfez3Eq762I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jfez3Eq762I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Art for Kids Hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-15T13:30:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZKnmSDJTqKDfEcxd0DygmuzU_tg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MXM5aQ0jItI"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T14:04:37Z",
+                "channelId": "UCrdt0afUIkvx_afZV4CUiHg",
+                "title": "Husky TEACHES Scared Puppy How To Play For The First Time!😭💙. [CUTEST VIDEO EVER!!]",
+                "description": "Sooo hello everyone!! So Humphrey our new husky has been a little scared but since Millie our 12 year old husky started to help ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MXM5aQ0jItI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MXM5aQ0jItI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MXM5aQ0jItI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "milperthusky",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T14:04:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ta6rHekqPBNKP55Rs3zhLbWTqVc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FQ-tN_lz_rc"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-05T15:10:40Z",
+                "channelId": "UCZ9Sp--c2mi0gTkEDIpHCXg",
+                "title": "Cold Puppy Hides on Sidewalk 2 Days After Sad Incident  And AMAZING",
+                "description": "Cold Puppy Hides on Sidewalk 2 Days After Sad Incident And AMAZING It is not known how many days he has been lying in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FQ-tN_lz_rc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FQ-tN_lz_rc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FQ-tN_lz_rc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Penguin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-05T15:10:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C2pKrIgRkWRMD4KvK8ayP5edZ_E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "19N1rUBA-Qk"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-04T11:00:00Z",
+                "channelId": "UCZjpAMIiwyNv5GGzrOI2NRQ",
+                "title": "Made your day with these funny and cute Pug Puppy Videos Compilation",
+                "description": "Made your day with these funny and cute Pug Puppy Videos Compilation Watch more of the cutest dogs!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/19N1rUBA-Qk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/19N1rUBA-Qk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/19N1rUBA-Qk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Puppy Lovers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-04T11:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JaW0yNeswmUuWU36OWU_d9GeTsE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TOBdQjcvlbM"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-05T23:30:04Z",
+                "channelId": "UCjGQH9gFd5QYZmiMNUULR9w",
+                "title": "Funny and Cute Dog Pomeranian 😍🐶| Funny Puppy Videos #292",
+                "description": "Funny and Cute Dog Pomeranian | Funny Puppy Videos Funny and Cute dog Compilation .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TOBdQjcvlbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TOBdQjcvlbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TOBdQjcvlbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pets Mini",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-05T23:30:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TFojUPZKVR9GamJRmEqdQ1sLrU4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YXBh3riRMmI"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-11T11:00:12Z",
+                "channelId": "UCerazDNo8vEcVTbBajMAoFQ",
+                "title": "Cute baby animals Videos Compilation cutest moment of the animals - Cutest Puppies #4",
+                "description": "Watch more cute Puppies compilations! https://youtube.com/playlist?list=PLDQIMVfdTGXxPPkxdmVjdkVPAtWr1Mw4D ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YXBh3riRMmI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YXBh3riRMmI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YXBh3riRMmI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cutest Puppies City",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-11T11:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uWRpy7sHPtw4sKlq847V0Yr55JE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J5R08JZaWJI"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T21:00:13Z",
+                "channelId": "UCLem9J0NkphqGbIYX5_uZBw",
+                "title": "Will has puppy fever 🐶 | Will &amp; Grace",
+                "description": "Will becomes absolutely obsessed with his cute puppy. Season 01, Episode 10, Will (Eric McCormack) balks at first when Grace ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J5R08JZaWJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J5R08JZaWJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J5R08JZaWJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Will & Grace",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-06T21:00:13Z"
+            }
+        }
+    ]
+}

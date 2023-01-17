@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "6NhCTCvu2JeJs4Z4sG7vtwkyFUI",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "AKfJx0_ntE1i2aexiYBCW_aBmGU",
+            "id": "UCINb0wqPz-A0dV9nARjJlOQ",
+            "snippet": {
+                "title": "The Dodo",
+                "description": "The Dodo on YouTube is a place for everyone who loves animals and cares about their wellbeing. Our goal is to make caring about animals a viral cause. We want our fans to fall in love with animals, be entertained while they’re doing it, and feel empowered to help animals in need.",
+                "customUrl": "@thedodo",
+                "publishedAt": "2014-03-21T20:50:16Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/IO6xVpWfI3SxdHNA1NN3EstLzn_Zi5g8aL3IBrIFe4laDtsWwm75iRwo29eWxet8IChU6ndDbA=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/IO6xVpWfI3SxdHNA1NN3EstLzn_Zi5g8aL3IBrIFe4laDtsWwm75iRwo29eWxet8IChU6ndDbA=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/IO6xVpWfI3SxdHNA1NN3EstLzn_Zi5g8aL3IBrIFe4laDtsWwm75iRwo29eWxet8IChU6ndDbA=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "The Dodo",
+                    "description": "The Dodo on YouTube is a place for everyone who loves animals and cares about their wellbeing. Our goal is to make caring about animals a viral cause. We want our fans to fall in love with animals, be entertained while they’re doing it, and feel empowered to help animals in need."
+                },
+                "country": "US"
+            }
+        }
+    ]
+}
